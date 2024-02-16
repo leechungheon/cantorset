@@ -1,3 +1,4 @@
+//4779 칸토어 집합
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
